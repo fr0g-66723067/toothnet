@@ -72,7 +72,7 @@ decodes to ```\x0b\x00\x00\x00Manufacture\x00``` and ```dgevowera```. another wi
 
 network hosts:
 * httx://ipaddr.market.alicloudapi.com/ip_addr_search/v1?IP_ADDR=0.0.0.0
-* htt://zh-api.evowera.com:8099
+* httx://zh-api.evowera.com:8099
 * mqtt://zh-emq.evowera.com
 
 
