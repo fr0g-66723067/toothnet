@@ -69,3 +69,9 @@ These keys are essential for the secure operation of BLE devices, enabling encry
 ```
 
 decodes to ```\x0b\x00\x00\x00Manufacture\x00``` and ```dgevowera```. another wireless password found ```12345678```
+
+network hosts:
+http://zh-api.evowera.com:8099
+http://ipaddr.market.alicloudapi.com/ip_addr_search/v1?IP_ADDR=0.0.0.0
+
+
